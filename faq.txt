@@ -7,7 +7,7 @@ A: Anak-anak usia 7 sampai 15 tahun dari berbagai latar belakang dapat mengikuti
 Q: Bahasa pemrograman apa saja yang diajarkan di kursus ini?
 A: Kami mengajarkan Scratch untuk pemula, Python untuk anak usia 10 tahun ke atas, HTML/CSS untuk pengembangan web, dan pengenalan JavaScript untuk siswa tingkat lanjut.
 
-Q: Apakah kursus ini tersedia secara online?
+Q: Apakah tersedia kelas online?
 A: Ya, kursus tersedia secara online melalui Zoom dengan modul digital dan pendampingan langsung dari pengajar.
 
 Q: Apakah tersedia kelas offline juga?
