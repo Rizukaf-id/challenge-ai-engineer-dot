@@ -1,8 +1,8 @@
-Q: Apa itu kursus coding untuk anak-anak?
-A: Layanan kursus coding untuk anak-anak adalah program edukasi yang mengenalkan dunia pemrograman secara menyenangkan dan interaktif untuk anak usia 7 hingga 15 tahun. Kami menggunakan pendekatan bermain sambil belajar agar anak-anak mudah memahami konsep teknologi.
+Q: Apa itu kursus koding untuk anak-anak?
+A: Layanan kursus koding untuk anak-anak adalah program edukasi yang mengenalkan dunia pemrograman secara menyenangkan dan interaktif untuk anak usia 7 hingga 15 tahun. Kami menggunakan pendekatan bermain sambil belajar agar anak-anak mudah memahami konsep teknologi.
 
 Q: Siapa saja yang bisa mengikuti kursus ini?
-A: Anak-anak usia 7 sampai 15 tahun dari berbagai latar belakang dapat mengikuti kursus ini, baik pemula maupun yang sudah pernah belajar coding.
+A: Anak-anak usia 7 sampai 15 tahun dari berbagai latar belakang dapat mengikuti kursus ini, baik pemula maupun yang sudah pernah belajar koding.
 
 Q: Bahasa pemrograman apa saja yang diajarkan di kursus ini?
 A: Kami mengajarkan Scratch untuk pemula, Python untuk anak usia 10 tahun ke atas, HTML/CSS untuk pengembangan web, dan pengenalan JavaScript untuk siswa tingkat lanjut.
@@ -16,8 +16,8 @@ A: Tersedia! Kami memiliki pusat belajar di beberapa kota besar seperti Jakarta,
 Q: Berapa lama satu program kursus berlangsung?
 A: Setiap program kursus berlangsung selama 8 minggu. Kelas diadakan dua kali seminggu, masing-masing berdurasi 90 menit.
 
-Q: Apa manfaat belajar coding sejak usia dini?
-A: Belajar coding sejak dini membantu anak mengembangkan logika berpikir, kreativitas, pemecahan masalah, dan keterampilan abad 21 seperti berpikir kritis dan kolaborasi.
+Q: Apa manfaat belajar koding sejak usia dini?
+A: Belajar koding sejak dini membantu anak mengembangkan logika berpikir, kreativitas, pemecahan masalah, dan keterampilan abad 21 seperti berpikir kritis dan kolaborasi.
 
 Q: Apakah ada ujian atau proyek akhir?
 A: Ya, setiap anak akan membuat proyek akhir berdasarkan materi yang telah dipelajari. Proyek ini akan dinilai dan dipresentasikan di sesi terakhir.
@@ -34,7 +34,7 @@ A: Ya, untuk kenyamanan belajar dan latihan mandiri, peserta perlu menggunakan l
 Q: Apakah orang tua bisa mendampingi anak selama kelas?
 A: Boleh, terutama untuk anak usia 7–9 tahun. Namun kami juga mendorong anak untuk belajar mandiri agar lebih percaya diri.
 
-Q: Bagaimana jika anak saya tidak punya pengalaman coding sama sekali?
+Q: Bagaimana jika anak saya tidak punya pengalaman koding sama sekali?
 A: Tidak masalah! Semua kelas kami dimulai dari dasar. Kami juga memiliki kelas khusus pemula untuk pengenalan komputer dan logika dasar.
 
 Q: Berapa biaya kursusnya?
